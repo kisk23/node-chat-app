@@ -17,7 +17,7 @@ JavaScript
 🚀 Quick Start
 1. Clone & Install
 bash
-git clone https://github.com/yourusername/chat-app.git
+git clone https://github.com/kisk23/node-chat-app.git
 cd chat-app
 npm install
 2. Configure
