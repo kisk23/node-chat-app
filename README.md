@@ -41,6 +41,11 @@
 ├── 📄 package.json       # Dependencies
 └── 📄 README.md          # You're here! 😉
 
+![Screenshot 2025-05-06 155048](https://github.com/user-attachments/assets/7320721f-1205-435a-b198-01cfca9f7c93)
+
+![Screenshot 2025-05-06 155130](https://github.com/user-attachments/assets/9635a496-a8b9-45bb-b5ae-db6e2614d202)
+
+
 💡 Future Improvements
 🔹 User Authentication (Google/Facebook login)
 🔹 Message History (Database storage)
