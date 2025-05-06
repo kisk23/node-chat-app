@@ -18,5 +18,9 @@
   },
   "devDependencies": {
     "socket.io": "^4.8.1"
-  }
+  },
+  "engines": {
+  "node": "18.x"
+
+}
 }
